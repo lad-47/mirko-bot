@@ -1,0 +1,26 @@
+{
+  "name": "mirko_bot",
+  "version": "1.0.0",
+  "description": "musings from the mind of Mirko",
+  "main": "mbot.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "twit": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mirko",
+    "bot"
+  ],
+  "author": "lucas-donaldson",
+  "license": "MIT",
+  "engines": {
+	  "node": "0.12.x"
+  },
+  "scripts": {
+	  "start": "node mbot.js"
+  }
+}
